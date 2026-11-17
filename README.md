@@ -29,7 +29,6 @@ Gosto de pegar um problema concreto, entender quem vai usar a solução e entreg
 | [**Sistema-Gestao**](https://github.com/gabrielrosas28/Sistema-Gestao) | Sistema da secretaria do Colégio Santa Chiara, pensado para acesso administrativo pela web | JavaScript |
 | [**vendinha-web**](https://github.com/gabrielrosas28/vendinha-web) | Caixa de vendas usado pelos grupos de alunos na feira gastronômica da escola, com versão web e versão para tablets | TypeScript, GitHub Pages |
 | [**EcoSense-IoT**](https://github.com/gabrielrosas28/EcoSense-IoT) | Plataforma acadêmica de automação IoT feita em equipe, com entrega em mock e depois em hardware real | MQTT, Home Assistant, ESP32, JavaScript |
-| [**Portifolio**](https://github.com/gabrielrosas28/Portifolio) | Meu site pessoal com projetos e contato | HTML, CSS, JavaScript |
 
 ---
 
